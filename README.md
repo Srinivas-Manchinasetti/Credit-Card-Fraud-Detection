@@ -2,6 +2,13 @@
 
 A machine learning project that detects fraudulent credit card transactions using supervised and unsupervised techniques — built with Python, scikit-learn, and Google Colab.
 
+Project Link: 
+
+[![Open in Colab]
+(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OHOLF3gIC9Ab5M06AC_BIED7YdTDZJI8?usp=sharing)
+[![Open in nbviewer]
+(https://img.shields.io/badge/Open%20in-nbviewer-orange)](https://nbviewer.org/github/Srinivas-Manchinasetti/Credit-Card-Fraud-Detection/blob/main/Credit_Card_Fraud_Detection.ipynb)
+
 ---
 
 ## 📌 Project Overview
